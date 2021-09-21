@@ -1,0 +1,101 @@
+[
+      {
+        "first_name": "Ketan",
+        "last_name": "Kumbhar",
+        "email": "ketankumb@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "100"
+
+
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Wadhwa",
+        "email": "namratkwadh@gmail.com",
+        "phone_number": "12344567",
+        "status": "Active",
+        "target": "90"
+
+
+      },
+      {
+        "first_name": "Aditya",
+        "last_name": "Mandhana",
+        "email": "adityam@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "80"
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kini",
+        "email": "ketank@gmail.com",
+        "phone_number": "12344567",
+        "status": "Active",
+        "target": "66"
+
+
+      },
+      {
+        "first_name": "Bharati",
+        "last_name": "Govekar",
+        "email": "bharatig@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "56"
+
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kumbhar",
+        "email": "ketankumb@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "99"
+
+
+      },
+      {
+        "first_name": "Namrata",
+        "last_name": "Wadhwa",
+        "email": "namratkwadh@gmail.com",
+        "phone_number": "12344567",
+        "status": "Active",
+        "target": "78"
+
+
+      },
+      {
+        "first_name": "Aditya",
+        "last_name": "Mandhana",
+        "email": "adityam@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "90"
+
+      },
+      {
+        "first_name": "Ketan",
+        "last_name": "Kini",
+        "email": "ketank@gmail.com",
+        "phone_number": "12344567",
+        "status": "Active",
+        "target": "99"
+
+
+      },
+      {
+        "first_name": "Bharati",
+        "last_name": "Govekar",
+        "email": "bharatig@gmail.com",
+        "phone_number": "12344567",
+        "status": "Inactive",
+        "target": "67"
+
+
+      }
+
+    ]

@@ -14,9 +14,10 @@ Things implemented in this project
 8) The user has the ability to switch back and forth using the next and previous icons
 9) The user is able to view page information like the start and end index of a particular page
 10) The user gets to choose the no of rows in a particular page using the dropdown option
-6) Ability to filter the Contact Information by first name, last name, email, phone number or status
-7) Validation for Phone number as no text can be entered there.
-8) All the components in the web app are unit tested with code coverage over 100% and you can find the coverage report under coverage folder in the root directory
+11) Ability to filter the Contact Information by first name, last name, email, phone number or status
+12) Validation for Phone number as no text can be entered there.
+13) All the components in the web app are unit tested with code coverage over 100% and you can find the coverage report under coverage folder in the root directory
+14) Created a custom pipe to calculate the remaining Target Balance for each contact. 
 
 While creating this web app, the best software design practices and coding standards were used. I have segregated the components, filters, services, models for better folder structure. 
 
